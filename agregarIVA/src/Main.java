@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(agregarIVA(000));
+        System.out.println(agregarIVA(0)); //precio aqui
 
     }
     public static double agregarIVA(double precio){
